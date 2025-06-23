@@ -3,6 +3,7 @@
 A secure file encryption, upload, and decryption system developed as part of my **Cloud Computing Internship - Task 3**. This project focuses on secure file handling, encryption, and basic cloud storage integration using Google Drive.
 
 screenshot:![image](https://github.com/user-attachments/assets/db7c7246-7342-42a1-ac2a-614a75f97879)
+Home Page:![image](https://github.com/user-attachments/assets/c7081d7f-3206-4a6d-9dcb-36e17fe06e41)
 
 ---
 
